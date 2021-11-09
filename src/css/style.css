@@ -1,0 +1,16 @@
+.Col {
+    border:solid 1px black;max-width:100vw;
+    
+}
+.text1 {
+    color: red;  
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.imag {
+   margin-left: 30%;
+}
+.vid {
+    margin-left: 40%;
+}
